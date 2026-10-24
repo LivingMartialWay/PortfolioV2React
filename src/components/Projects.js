@@ -1,9 +1,6 @@
 import React from 'react';
 import Particles from 'react-particles-js';
 import './Projects.css';
-import reactlogo from '../img/react.png';
-import jslogo from '../img/javascript.png';
-import nodelogo from '../img/nodejs.png';
 
 function Projects() {
   return (
